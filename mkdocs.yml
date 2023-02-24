@@ -25,8 +25,8 @@ theme:
     - navigation.tabs
 
 # Repository
-repo_name: ELIXIR-FAIR-Training/FAIR-training-handbook
-repo_url: https://github.com/ELIXIR-FAIR-Training/FAIR-training-handbook
+repo_name: elinkronander/FAIR-training-handbook
+repo_url: https://github.com/elinkronander/FAIR-training-handbook
 edit_uri: edit/main/docs/
 
 plugins:
