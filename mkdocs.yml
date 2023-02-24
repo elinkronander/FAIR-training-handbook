@@ -36,6 +36,7 @@ plugins:
   - bibtex:
       bib_file: "references.bib"
   
+copyright: Licence; This material is provided under a CCBY licence
 
 markdown_extensions:
   - abbr
