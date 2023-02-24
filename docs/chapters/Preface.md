@@ -1,4 +1,4 @@
-## Introduction
+## Introduction to FAIR training
   The FAIR Training Handbook supports trainers to apply the [10 Simple Rules for Making Training Materials Findable, Accessible, Interoperable and Reusable (FAIR)](https://doi.org/10.1371/journal.pcbi.1007854) (Figure 1) [@Garcia2020]. It will explain why FAIR is important and how you can make it happen. Trainers can use the practical suggestions in the following chapters to create or improve their training resources.
   
   <figure>
